@@ -1,5 +1,3 @@
-Here is the updated `README.md` with the **License** and **Contributing** sections removed:
-
 ````markdown
 # Flask Squat Analysis AI
 
