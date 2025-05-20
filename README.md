@@ -1,4 +1,3 @@
-````markdown
 # Flask Squat Analysis AI
 
 A real-time AI-powered exercise form analyzer built with Flask and React. This application uses computer vision to analyze squat form and provide instant feedback to help users improve their technique.
@@ -46,7 +45,7 @@ A real-time AI-powered exercise form analyzer built with Flask and React. This a
    ```bash
    git clone https://github.com/yourusername/flask-squat-analysis.git
    cd flask-squat-analysis
-````
+   ````
 
 2. Create a virtual environment:
 
@@ -107,6 +106,4 @@ A real-time AI-powered exercise form analyzer built with Flask and React. This a
    * Upload a video file
    * Wait for processing
    * View results
-
-```
 
